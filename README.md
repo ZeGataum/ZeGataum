@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bicalho.Geraldo 😁
+## Bem-vindo(a) ao perfil do Geraldo 😁
 
  <div>
    <a href="https://github.com/Bicalho.Geraldo">
