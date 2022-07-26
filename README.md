@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Gera 😁
+## Bem-vindo(a) ao perfil do ZeGataum 😁
 
  <div>
-   <a href="https://github.com/Geraldo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bicalho.Geraldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/ZeGataum">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeGataum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeGataum&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
